@@ -4,6 +4,24 @@ author: "Gaurav Lamba"
 date: "Sunday, September 21, 2014"
 output: html_document
 ---
+The original dataset has following  files:
+
+'features.txt': List of all features.
+
+'activity_labels.txt': List of class labels and their activity name.
+
+'train/X_train.txt': Training set.
+
+'train/y_train.txt': Training labels.
+
+'train/subject_train.txt': ID's of subjects in the training data
+
+'test/X_test.txt': Test set.
+
+'test/y_test.txt': Test labels.
+
+'test/subject_test.txt': ID's of subjects in the training data
+
 
 The cleanup script (run_analysis.R) does the following:
 
